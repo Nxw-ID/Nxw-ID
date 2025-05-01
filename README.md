@@ -20,5 +20,5 @@ Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang
 </div>
 <p align="center"
   
-![sxp-id](https://komarev.com/ghpvc/?username=Sxp-ID&label=Views&color=blue&style=plastic)
-![sxp-id](https://img.shields.io/github/followers/Sxp-ID?label=follow&style=social)</p>
+![Nxw-ID](https://komarev.com/ghpvc/?username=Nxw-ID&label=Views&color=blue&style=plastic)
+![Nxw-ID](https://img.shields.io/github/followers/Nxw-ID?label=follow&style=social)</p>
