@@ -1,14 +1,24 @@
+# Welcome ngab, [Sanz](https://www.facebook.com/dhasilva.junior.3) here 😎
+<!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"> -->
+<a href="https://saweria.co/SanzXp" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Sanz" height="30" width="106"></a>
+<a href="https://www.youtube.com/channel/UCLRXFyMN0L8yH9F-xxOd7Og" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCLRXFyMN0L8yH9F-xxOd7Og?logo=youtube&style=for-the-badge" alt="Sanz" height="28" wodth="106"/></a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
+Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang ya Slur Xixi.
 <div align="center">
  <p align='center'>
-![](https://github-readme-stats.vercel.app/api?username=Nxw-ID&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nxw-ID&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nxw-ID&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Nxw-ID&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <a href="#"><img
+   src="https://github-readme-stats.vercel.app/api?username=Nxw-ID&theme=dark&hide_border=false&include_all_commits=true&count_private=false"
+   src="https://nirzak-streak-stats.vercel.app/?user=Nxw-ID&theme=dark&hide_border=false"
+   width="400" title="maskprivate1457 Github Starts"></a>
+ </p>
+ <p align='center'>
+  <a href="#"><img
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxw-ID&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+   src=""
+   width="400" title="Most Used Languages"></a></p>
+ </p>
+</div>
+<p align="center"
+  
+![sxp-id](https://komarev.com/ghpvc/?username=Sxp-ID&label=Views&color=blue&style=plastic)
+![sxp-id](https://img.shields.io/github/followers/Sxp-ID?label=follow&style=social)</p>
