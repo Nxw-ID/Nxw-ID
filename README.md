@@ -1,23 +1,42 @@
-# Welcome ngab, [Octopus] here 😎
-<!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"> -->
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nxw-ID&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nxw-ID&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<div align="left">
 <a href="https://saweria.co/NxwID" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Sanz" height="30" width="106"></a>
 
-Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang ya Slur Xixi.
-<div align="center">
- <p align='center'>
-  <a href="#"><img
-   src="https://github-readme-stats.vercel.app/api?username=Nxw-ID&theme=dark&hide_border=false&include_all_commits=true&count_private=false"
-   src="https://nirzak-streak-stats.vercel.app/?user=Nxw-ID&theme=dark&hide_border=false"
-   width="400" title="maskprivate1457 Github Starts"></a>
- </p>
- <p align='center'>
-  <a href="#"><img
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxw-ID&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
-   src=""
-   width="400" title="Most Used Languages"></a></p>
- </p>
-</div>
-<p align="center"
-  
-![Nxw-ID](https://komarev.com/ghpvc/?username=Nxw-ID&label=Views&color=blue&style=plastic)
-![Nxw-ID](https://img.shields.io/github/followers/Nxw-ID?label=follow&style=social)</p>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
